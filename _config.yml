@@ -1,8 +1,8 @@
 # Site settings
-title: spfwage blog
-SEOTitle: spfwage | supf Blog
+title: 6 blog
+SEOTitle: 小六儿 | 6 Blog
 header-img: img/home-bg-art.jpg
-email: supf1995@gmail.com
+email: weijingliu@yeah.net
 description: ""
 keyword: ""
 url: "https://supf1995.github.io"              # your host, for absolute URL
@@ -68,7 +68,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "记不住还是写下来吧"
-sidebar-avatar: /img/avatar-su.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-6.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -81,7 +81,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "spfwage Blog",
+        title: "6`s Blog",
         href: "https://supf1995.github.io"
     },{
         title: "GitLab",
